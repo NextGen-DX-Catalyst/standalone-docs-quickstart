@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "quickstart"
+  description: Quickstart
+  tags:
+    - general
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentaion
+  owner: devportal
+  lifecycle: experimental

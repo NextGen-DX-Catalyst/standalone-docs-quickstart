@@ -1,0 +1,11 @@
+site_name: Quickstart
+site_description: A quick introduction to building with Concentrix
+
+nav:
+  - Introduction: index.md
+  - Sandbox: sandbox.md
+  - Errors: errors.md
+  - Support: support.md
+
+plugins:
+  - techdocs-core
