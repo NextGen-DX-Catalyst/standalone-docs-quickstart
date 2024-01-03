@@ -1,8 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "quickstart"
-  description: Quickstart
+  name: quickstart
+  title: Quickstart
+  description: |
+    The Quickstart Documentation for our internal developer portal is your
+    go-to guide for a fast and efficient setup. It provides concise,
+    step-by-step instructions to get you up and running with the portal’s core
+    features.
   tags:
     - general
   annotations:
