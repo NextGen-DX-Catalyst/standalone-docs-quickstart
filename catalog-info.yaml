@@ -12,6 +12,7 @@ metadata:
     - general
   annotations:
     backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: NextGen-DX-Catalyst/standalone-docs-quickstart
 spec:
   type: documentaion
   owner: devportal
